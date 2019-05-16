@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotificationManager</string>
+    <string name="send_notice">Send Notice</string>
+    <string name="notification_layout">Notification layout</string>
+</resources>
